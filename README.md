@@ -25,7 +25,7 @@
 ---
 
 ## 📜 Overview
-The **Caesar Cipher Web App** is a sleek, interactive encryption & decryption tool built with **Streamlit**.  
+The **Caesar Cipher** is a sleek, interactive encryption & decryption Web App tool built with **Streamlit**.  
 It supports:
 - **Encryption** with a custom shift
 - **Decryption** with a custom shift
@@ -55,8 +55,8 @@ This tool is perfect for learning basic cryptography concepts while enjoying a m
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/imlegendadi/caesar-cipher-app.git
-cd caesar-cipher-app
+https://github.com/ImLegendAdi/PRODIGY_CS_01.git
+cd Caesar-Cipher
 
 # 2️⃣ Install dependencies
 pip install -r requirements.txt
