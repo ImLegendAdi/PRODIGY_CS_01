@@ -62,4 +62,4 @@ cd Caesar-Cipher
 pip install -r requirements.txt
 
 # 3️⃣ Run the Streamlit app
-streamlit run app.py
+streamlit run Caesar-Cipher.py
